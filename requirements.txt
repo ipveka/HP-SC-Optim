@@ -1,0 +1,13 @@
+# pip install -r requirements.txt
+
+statsmodels
+calendar
+matplotlib
+datetime
+sklearn
+xgboost
+seaborn
+signal
+pandas
+scipy
+numpy
